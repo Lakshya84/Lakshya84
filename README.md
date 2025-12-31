@@ -63,13 +63,13 @@
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat&logo=unity)
 ![C#](https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp)
-![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
 
 ---
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
 
 ---
 

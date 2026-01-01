@@ -114,13 +114,6 @@ Level generation logic and sound effects integration for a casual mobile game
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Lakshya84?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0" />
-</p>
-
----
 
 ## 🤝 Let’s Connect
 
